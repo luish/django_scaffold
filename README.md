@@ -27,7 +27,7 @@
 
 The code above will generate a django app with model, views and urls path.
 
-The example above will create the codes and files bellow
+The example above will create the codes and files below
 
 >post/models.py
 
